@@ -1,0 +1,7 @@
+/*var text=prompt("Enter your name : ");
+        document.write("number of char ",+text.length);
+        document.write("number 2 of char ",+text.charAt(2));
+        document.write("number of char ",+text.toUpperCase);
+        document.write("number of char ",+text.concat("is My name"));
+        document.write("number of char ",+text.slice(0,2));*/
+
